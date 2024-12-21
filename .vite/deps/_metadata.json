@@ -1,0 +1,46 @@
+{
+  "hash": "2911f04e",
+  "configHash": "2053dd1a",
+  "lockfileHash": "c1a0b574",
+  "browserHash": "0324583f",
+  "optimized": {
+    "react": {
+      "src": "../../../protecttree/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "21874586",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../../protecttree/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "0023affa",
+      "needsInterop": true
+    },
+    "lucide-react": {
+      "src": "../../../protecttree/node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "60c035b8",
+      "needsInterop": false
+    },
+    "gsap": {
+      "src": "../../../protecttree/node_modules/gsap/index.js",
+      "file": "gsap.js",
+      "fileHash": "bfa06799",
+      "needsInterop": false
+    },
+    "three": {
+      "src": "../../../protecttree/node_modules/three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "9945f0d4",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-4IGLZD3N": {
+      "file": "chunk-4IGLZD3N.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
